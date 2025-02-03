@@ -1,0 +1,5 @@
+str(conv.column_name),data_type,example_value,non_null_pct
+source_product_id,StringType(),"[""HMC071"",""UKG4"",""UN31"",""UWL601"",""HRH074""]",100
+product_name,StringType(),"[""Crisis Care Benefit Rider"",""Life Promise Insurance Plan - 20yr Pay"",""Noble Fortune"",""Cancer Benefit"",""MaxFocus Global Insurance Plan - 5 Pay""]",100
+product_category,StringType(),"[""critical_illness"",""annuity"",""group_medical"",""unknown"",""waiver_of_premium""]",100
+product_category_fixed,StringType(),"[""critical_illness"",""annuity"",""group_medical"",""waiver_of_premium"",""unknown2""]",100
